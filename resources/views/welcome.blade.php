@@ -21,7 +21,7 @@
         </style>
     </head>
     <body >
-       <div id="formulario"></div>
-       <script src="C:\xampp\htdocs\consultora_web\resources\js\app.js"></script>
-    </body>
+        <div class="FormulariosConsultora"></div>
+    <script src="{{ asset('js/app.js') }}" ></script>
+    </body> 
 </html>
